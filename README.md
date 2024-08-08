@@ -8,8 +8,6 @@
 <a href="https://twitter.com/therealtavnik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealtavnik1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lorentsinani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lorentsinani" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lorent-sinani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lorent-sinani" height="30" width="40" /></a>
-<a href="https://fb.com/lorentsinani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lorentsinani" height="30" width="40" /></a>
-<a href="https://instagram.com/lorentsinani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorentsinani1" height="30" width="40" /></a>
 <a href="https://discord.gg/т α ν η ι к 1 #7563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="т α ν η ι к 1 #7563" height="30" width="40" /></a>
 </p>
 
