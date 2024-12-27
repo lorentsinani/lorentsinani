@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorent Sinani</h1>
-<h3 align="center">Backend Engineer • Integration Specialist</h3>
+<h3 align="center">Backend & Blockchain Engineer</h3>
 
 - Contact me via email: **lorent.sinani0@gmail.com**
 
